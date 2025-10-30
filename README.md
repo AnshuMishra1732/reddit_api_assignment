@@ -19,8 +19,8 @@ The script:
 ---
 
 ## Learning Objectives
-By completing this project, you will:
-- Understand how to authenticate and interact with a public API
+By completing this project, I learnt to: 
+- Understanding how to authenticate and interact with a public API
 - Apply object-oriented programming to organize data collection logic
 - Use pandas for data cleaning, deduplication, and file export
 - Implement secure credential management using environment variables
